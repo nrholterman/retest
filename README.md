@@ -8,3 +8,5 @@ It's been a couple years since Ic created my first site on Gibthub, but I'm conf
 I have to be patient with myself, though.
 
 In any case, HELLO WORLD!
+
+Update: These edits have been made from the Atom plain text editor!
